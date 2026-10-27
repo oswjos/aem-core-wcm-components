@@ -1,3 +1,5 @@
+> **Maintenance notice:** This repository is unmaintained and contains outdated dependencies. It is preserved for reference and is not recommended for production use.
+
 # AEM Sites Core Components
 [![CircleCI](https://circleci.com/gh/adobe/aem-core-wcm-components.svg?style=svg)](https://circleci.com/gh/adobe/aem-core-wcm-components)
 [![Code Coverage](https://codecov.io/gh/adobe/aem-core-wcm-components/branch/master/graph/badge.svg)](https://codecov.io/gh/adobe/aem-core-wcm-components)
